@@ -1,5 +1,4 @@
 from random import randint
-from tkinter import *
 cont = certo = erro = certo_novo = 0
 lista = ('Hidrogenio', 'Helio', 'Litio', 'Berilio', 'Boro', 'Carbono', 'Nitrogenio', 'Oxigenio', 'Fluor', 'Neonio', 'Sodio', 'Magnesio', 'Aluminio',
 'Silicio', 'Fosforo', 'Enxofre', 'Cloro', 'Argonio', 'Potassio', 'Calcio', 'Escandio', 'Titanio', 'Vanadio', 'Cromio', 'Manganes', 'Ferro',
